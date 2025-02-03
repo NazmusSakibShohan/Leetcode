@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
