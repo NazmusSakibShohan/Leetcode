@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
