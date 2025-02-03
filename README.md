@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/NazmusSakibShohan/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/NazmusSakibShohan/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/NazmusSakibShohan/Leetcode/tree/master/1827-invalid-tweets) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/NazmusSakibShohan/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
