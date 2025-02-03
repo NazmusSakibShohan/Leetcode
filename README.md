@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
