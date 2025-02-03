@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NazmusSakibShohan/Leetcode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
